@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Model weights (large binary files)
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+
+# IDE
+.idea/
+.vscode/
+
+# Logs / outputs (optional - uncomment to ignore)
+# logs/
+# results/
+
+# OS
+.DS_Store
+Thumbs.db

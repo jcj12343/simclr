@@ -1,0 +1,9 @@
+{
+  "linear_probe_epochs": 20,
+  "batch_size": 128,
+  "test_set_size": 10000,
+  "train_set_size": 50000,
+  "final_best_test_acc": 0.7189,
+  "probe_time_sec": 371.59,
+  "pretrain_total_sec": 5546.05
+}

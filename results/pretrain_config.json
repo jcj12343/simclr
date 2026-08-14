@@ -1,0 +1,9 @@
+{
+  "mode": "simclr_pretrain",
+  "train_samples": 50000,
+  "batch_size": 128,
+  "epochs": 20,
+  "temperature": 0.2,
+  "lr": 0.003,
+  "pretrain_time_sec": 5174.46
+}

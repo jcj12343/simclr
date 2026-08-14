@@ -1,0 +1,33 @@
+==== SimCLR 预训练完整日志 ====
+训练开始时间: Fri Aug 14 08:27:01 2026
+Device: cuda
+Batch Size: 128
+Pretrain Epochs: 20
+Temperature tau: 0.2
+Learning Rate: 0.003
+训练样本总数: 50000
+--------------------------------------------------
+Epoch 1 | Average Loss: 4.644654
+Epoch 2 | Average Loss: 3.972721
+Epoch 3 | Average Loss: 3.509642
+Epoch 4 | Average Loss: 3.232383
+Epoch 5 | Average Loss: 3.000043
+Epoch 6 | Average Loss: 2.826735
+Epoch 7 | Average Loss: 2.711294
+Epoch 8 | Average Loss: 2.619513
+Epoch 9 | Average Loss: 2.550230
+Epoch 10 | Average Loss: 2.485186
+Epoch 11 | Average Loss: 2.426778
+Epoch 12 | Average Loss: 2.378479
+Epoch 13 | Average Loss: 2.344763
+Epoch 14 | Average Loss: 2.307186
+Epoch 15 | Average Loss: 2.282845
+Epoch 16 | Average Loss: 2.257745
+Epoch 17 | Average Loss: 2.236272
+Epoch 18 | Average Loss: 2.222214
+Epoch 19 | Average Loss: 2.226905
+Epoch 20 | Average Loss: 2.210321
+--------------------------------------------------
+预训练结束时间: Fri Aug 14 09:53:14 2026
+预训练总耗时：5174.46 s (86.24 min)
+预训练权重已保存: ../simclr_encoder.pth
