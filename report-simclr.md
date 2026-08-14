@@ -235,11 +235,12 @@ AI 主要在以下环节提供了帮助：
 ## 13. Git 提交记录
 
 - 仓库地址：https://github.com/jcj12343/simclr
-- 总 commit 数：（见下方 git log）
+- 总 commit 数：4
 
 粘贴 `git log --oneline` 输出：
 
 ```text
+01bf365 Add SimCLR experiment report
 6bacce2 Merge remote-tracking branch 'origin/main'
 41b9fa1 Initial commit
 5f728fa Initial commit: SimCLR self-supervised learning (pretrain + linear probe)
